@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="format-detection" content="telephone=no">
+  <title>TBP 视频</title>
+  <style>
+    :root { color-scheme: light; --paper: #fff; --ink: #111; --line: #d7d7d7; --red: #e4002b; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; min-height: 100%; background: var(--paper); color: var(--ink); }
+    body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    main { min-height: 100vh; display: grid; grid-template-rows: auto 1fr auto; }
+    header, footer { display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 24px; padding: 18px 20px; border-bottom: 1px solid var(--line); }
+    h1 { margin: 0; font-size: clamp(26px, 7vw, 58px); line-height: .9; letter-spacing: -.055em; }
+    .duration { color: var(--red); font-size: clamp(28px, 9vw, 72px); line-height: .75; font-weight: 700; letter-spacing: -.07em; font-variant-numeric: tabular-nums; }
+    .stage { display: grid; align-items: center; padding: clamp(18px, 5vw, 56px) 20px; }
+    .frame { width: min(100%, 1100px); margin: 0 auto; background: #000; border-left: 6px solid var(--red); }
+    video { display: block; width: 100%; max-height: 76vh; background: #000; }
+    footer { align-items: center; border-top: 1px solid var(--line); border-bottom: 0; font-size: 13px; line-height: 1.4; }
+    footer p { margin: 0; }
+    .mark { width: 12px; height: 12px; background: var(--red); }
+    @media (max-width: 520px) {
+      header { grid-template-columns: 1fr; align-items: start; }
+      .duration { justify-self: end; }
+      .stage { padding-inline: 0; }
+      .frame { border-left-width: 4px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>TBP 视频</h1>
+      <div class="duration" aria-label="时长 2 分 12 秒">02:12</div>
+    </header>
+    <section class="stage" aria-label="视频播放器">
+      <div class="frame">
+        <video controls playsinline webkit-playsinline preload="metadata">
+          <source src="media/TBP-wechat.mp4" type="video/mp4">
+          当前浏览器无法播放此视频。
+        </video>
+      </div>
+    </section>
+    <footer>
+      <p>点击播放按钮即可观看，无需登录。</p>
+      <span class="mark" aria-hidden="true"></span>
+    </footer>
+  </main>
+</body>
+</html>
