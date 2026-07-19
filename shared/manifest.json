@@ -18,26 +18,8 @@
         "updatedUtc":  "2026-07-17T03:48:38.8463169Z"
     },
     {
-        "source":  "ZJB-JC-8860光电直读光谱分析单点教程-021-V2.pdf",
-        "name":  "ZJB-JC-8860光电直读光谱分析单点教程-021-V2.pdf",
-        "slug":  "pdf-33365ddf9c392b60",
-        "asset":  "pdf-33365ddf9c392b60.pdf",
-        "type":  "pdf",
-        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-33365ddf9c392b60/",
-        "updatedUtc":  "2026-07-19T01:38:34.7248780Z"
-    },
-    {
-        "source":  "ZJB-JC-8860光电直读光谱开关机单点教程-028-V1.pdf",
-        "name":  "ZJB-JC-8860光电直读光谱开关机单点教程-028-V1.pdf",
-        "slug":  "pdf-2d409f9f88693122",
-        "asset":  "pdf-2d409f9f88693122.pdf",
-        "type":  "pdf",
-        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-2d409f9f88693122/",
-        "updatedUtc":  "2026-07-19T01:38:34.7547360Z"
-    },
-    {
-        "source":  "ZJB-JC-8860光电直读光谱漂移跟踪及调整单点教程-075-V1.pdf",
-        "name":  "ZJB-JC-8860光电直读光谱漂移跟踪及调整单点教程-075-V1.pdf",
+        "source":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨婕傜Щ璺熻釜鍙婅皟鏁村崟鐐规暀绋?075-V1.pdf",
+        "name":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨婕傜Щ璺熻釜鍙婅皟鏁村崟鐐规暀绋?075-V1.pdf",
         "slug":  "pdf-826e8714a68d4bda",
         "asset":  "pdf-826e8714a68d4bda.pdf",
         "type":  "pdf",
@@ -45,8 +27,26 @@
         "updatedUtc":  "2026-07-19T01:38:34.7764222Z"
     },
     {
-        "source":  "ZJB-JC-ARL9900X荧光光谱压片分析单点教程-023-V2.pdf",
-        "name":  "ZJB-JC-ARL9900X荧光光谱压片分析单点教程-023-V2.pdf",
+        "source":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨寮€鍏虫満鍗曠偣鏁欑▼-028-V1.pdf",
+        "name":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨寮€鍏虫満鍗曠偣鏁欑▼-028-V1.pdf",
+        "slug":  "pdf-2d409f9f88693122",
+        "asset":  "pdf-2d409f9f88693122.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-2d409f9f88693122/",
+        "updatedUtc":  "2026-07-19T01:38:34.7547360Z"
+    },
+    {
+        "source":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨鍒嗘瀽鍗曠偣鏁欑▼-021-V2.pdf",
+        "name":  "ZJB-JC-8860鍏夌數鐩磋鍏夎氨鍒嗘瀽鍗曠偣鏁欑▼-021-V2.pdf",
+        "slug":  "pdf-33365ddf9c392b60",
+        "asset":  "pdf-33365ddf9c392b60.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-33365ddf9c392b60/",
+        "updatedUtc":  "2026-07-19T01:38:34.7248780Z"
+    },
+    {
+        "source":  "ZJB-JC-ARL9900X鑽у厜鍏夎氨鍘嬬墖鍒嗘瀽鍗曠偣鏁欑▼-023-V2.pdf",
+        "name":  "ZJB-JC-ARL9900X鑽у厜鍏夎氨鍘嬬墖鍒嗘瀽鍗曠偣鏁欑▼-023-V2.pdf",
         "slug":  "pdf-ecef0ff2addecb05",
         "asset":  "pdf-ecef0ff2addecb05.pdf",
         "type":  "pdf",
@@ -54,8 +54,26 @@
         "updatedUtc":  "2026-07-19T01:38:34.8092862Z"
     },
     {
-        "source":  "ZJB-JC-X荧光光谱硼酸压片单点教程-026-V2.pdf",
-        "name":  "ZJB-JC-X荧光光谱硼酸压片单点教程-026-V2.pdf",
+        "source":  "ZJB-JC-Bruker  S8 X荧光光谱分析单点教程-022-V2.pdf",
+        "name":  "ZJB-JC-Bruker  S8 X荧光光谱分析单点教程-022-V2.pdf",
+        "slug":  "pdf-2503d60ef2890e6e",
+        "asset":  "pdf-2503d60ef2890e6e.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-2503d60ef2890e6e/",
+        "updatedUtc":  "2026-07-19T01:47:32.1886733Z"
+    },
+    {
+        "source":  "ZJB-JC-X荧光光谱熔片单点教程-027-V2.pdf",
+        "name":  "ZJB-JC-X荧光光谱熔片单点教程-027-V2.pdf",
+        "slug":  "pdf-2cff37071f57fe45",
+        "asset":  "pdf-2cff37071f57fe45.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-2cff37071f57fe45/",
+        "updatedUtc":  "2026-07-19T01:47:32.2296897Z"
+    },
+    {
+        "source":  "ZJB-JC-X鑽у厜鍏夎氨纭奸吀鍘嬬墖鍗曠偣鏁欑▼-026-V2.pdf",
+        "name":  "ZJB-JC-X鑽у厜鍏夎氨纭奸吀鍘嬬墖鍗曠偣鏁欑▼-026-V2.pdf",
         "slug":  "pdf-d5a9298f9f71c86c",
         "asset":  "pdf-d5a9298f9f71c86c.pdf",
         "type":  "pdf",
@@ -63,8 +81,26 @@
         "updatedUtc":  "2026-07-19T01:38:34.8472614Z"
     },
     {
-        "source":  "ZJB-JC-电极糊制备单点教程-052-V1.pdf",
-        "name":  "ZJB-JC-电极糊制备单点教程-052-V1.pdf",
+        "source":  "ZJB-JC-电子天平维护清理单点教程-076-V1.pdf",
+        "name":  "ZJB-JC-电子天平维护清理单点教程-076-V1.pdf",
+        "slug":  "pdf-aa1736b322fe982c",
+        "asset":  "pdf-aa1736b322fe982c.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-aa1736b322fe982c/",
+        "updatedUtc":  "2026-07-19T01:47:32.3949777Z"
+    },
+    {
+        "source":  "ZJB-JC-颚破更换颚板单点教程-037-V2.pdf",
+        "name":  "ZJB-JC-颚破更换颚板单点教程-037-V2.pdf",
+        "slug":  "pdf-d33d82380c240e5f",
+        "asset":  "pdf-d33d82380c240e5f.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-d33d82380c240e5f/",
+        "updatedUtc":  "2026-07-19T01:47:32.4399645Z"
+    },
+    {
+        "source":  "ZJB-JC-鐢垫瀬绯婂埗澶囧崟鐐规暀绋?052-V1.pdf",
+        "name":  "ZJB-JC-鐢垫瀬绯婂埗澶囧崟鐐规暀绋?052-V1.pdf",
         "slug":  "pdf-ed2a303da274902f",
         "asset":  "pdf-ed2a303da274902f.pdf",
         "type":  "pdf",
@@ -72,8 +108,8 @@
         "updatedUtc":  "2026-07-19T01:38:34.9115078Z"
     },
     {
-        "source":  "ZJB-JC-电子天平使用单点教程-040-V2.pdf",
-        "name":  "ZJB-JC-电子天平使用单点教程-040-V2.pdf",
+        "source":  "ZJB-JC-鐢靛瓙澶╁钩浣跨敤鍗曠偣鏁欑▼-040-V2.pdf",
+        "name":  "ZJB-JC-鐢靛瓙澶╁钩浣跨敤鍗曠偣鏁欑▼-040-V2.pdf",
         "slug":  "pdf-a191c9fa9ffbefa4",
         "asset":  "pdf-a191c9fa9ffbefa4.pdf",
         "type":  "pdf",
@@ -81,17 +117,17 @@
         "updatedUtc":  "2026-07-19T01:38:34.8910310Z"
     },
     {
-        "source":  "ZJB-JC-炉渣样品制备单点教程-032-V1.pdf",
-        "name":  "ZJB-JC-炉渣样品制备单点教程-032-V1.pdf",
-        "slug":  "pdf-bf727fa8b26da57f",
-        "asset":  "pdf-bf727fa8b26da57f.pdf",
+        "source":  "ZJB-JC-鹤壁精中电导率使用单点教程-052-V1.pdf",
+        "name":  "ZJB-JC-鹤壁精中电导率使用单点教程-052-V1.pdf",
+        "slug":  "pdf-de1541a43e4671d7",
+        "asset":  "pdf-de1541a43e4671d7.pdf",
         "type":  "pdf",
-        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-bf727fa8b26da57f/",
-        "updatedUtc":  "2026-07-19T01:38:34.8687665Z"
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-de1541a43e4671d7/",
+        "updatedUtc":  "2026-07-19T01:47:32.4694281Z"
     },
     {
-        "source":  "ZJB-JC-镍铁化学分析样品制备单点教程-033-V1.pdf",
-        "name":  "ZJB-JC-镍铁化学分析样品制备单点教程-033-V1.pdf",
+        "source":  "ZJB-JC-闀嶉搧鍖栧鍒嗘瀽鏍峰搧鍒跺鍗曠偣鏁欑▼-033-V1.pdf",
+        "name":  "ZJB-JC-闀嶉搧鍖栧鍒嗘瀽鏍峰搧鍒跺鍗曠偣鏁欑▼-033-V1.pdf",
         "slug":  "pdf-b2e255074f152562",
         "asset":  "pdf-b2e255074f152562.pdf",
         "type":  "pdf",
@@ -99,8 +135,62 @@
         "updatedUtc":  "2026-07-19T01:38:34.9522932Z"
     },
     {
-        "source":  "压片标准作业视频.mp4",
-        "name":  "压片标准作业视频.mp4",
+        "source":  "ZJB-JC-精中EC-300PH计使用单点教程-051-V1.pdf",
+        "name":  "ZJB-JC-精中EC-300PH计使用单点教程-051-V1.pdf",
+        "slug":  "pdf-5f04a9c8afd5f4f9",
+        "asset":  "pdf-5f04a9c8afd5f4f9.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-5f04a9c8afd5f4f9/",
+        "updatedUtc":  "2026-07-19T01:47:32.4214846Z"
+    },
+    {
+        "source":  "ZJB-JC-鐐夋福鏍峰搧鍒跺鍗曠偣鏁欑▼-032-V1.pdf",
+        "name":  "ZJB-JC-鐐夋福鏍峰搧鍒跺鍗曠偣鏁欑▼-032-V1.pdf",
+        "slug":  "pdf-bf727fa8b26da57f",
+        "asset":  "pdf-bf727fa8b26da57f.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-bf727fa8b26da57f/",
+        "updatedUtc":  "2026-07-19T01:38:34.8687665Z"
+    },
+    {
+        "source":  "ZJB-JC-气瓶更换单点教程-056-V2.pdf",
+        "name":  "ZJB-JC-气瓶更换单点教程-056-V2.pdf",
+        "slug":  "pdf-67d33e69b469baf7",
+        "asset":  "pdf-67d33e69b469baf7.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-67d33e69b469baf7/",
+        "updatedUtc":  "2026-07-19T01:47:32.3342331Z"
+    },
+    {
+        "source":  "ZJB-JC-切割机更换切割片单点教程-034-V1.pdf",
+        "name":  "ZJB-JC-切割机更换切割片单点教程-034-V1.pdf",
+        "slug":  "pdf-f85226f81364488e",
+        "asset":  "pdf-f85226f81364488e.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-f85226f81364488e/",
+        "updatedUtc":  "2026-07-19T01:47:32.2679517Z"
+    },
+    {
+        "source":  "ZJB-JC-水质碱度测定单点教程-054-V1.pdf",
+        "name":  "ZJB-JC-水质碱度测定单点教程-054-V1.pdf",
+        "slug":  "pdf-4a2fec88e265615a",
+        "asset":  "pdf-4a2fec88e265615a.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-4a2fec88e265615a/",
+        "updatedUtc":  "2026-07-19T01:47:32.3733892Z"
+    },
+    {
+        "source":  "ZJB-JC-圆盘磨样机更换砂纸单点教程-036-V2.pdf",
+        "name":  "ZJB-JC-圆盘磨样机更换砂纸单点教程-036-V2.pdf",
+        "slug":  "pdf-698e207edcfb782f",
+        "asset":  "pdf-698e207edcfb782f.pdf",
+        "type":  "pdf",
+        "url":  "https://181wyx-crypto.github.io/tbp-video-player/shared/view/pdf-698e207edcfb782f/",
+        "updatedUtc":  "2026-07-19T01:47:32.3174515Z"
+    },
+    {
+        "source":  "鍘嬬墖鏍囧噯浣滀笟瑙嗛.mp4",
+        "name":  "鍘嬬墖鏍囧噯浣滀笟瑙嗛.mp4",
         "slug":  "video-9a5fa8f73285018f",
         "asset":  "video-9a5fa8f73285018f.mp4",
         "type":  "video",
